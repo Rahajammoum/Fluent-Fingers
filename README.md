@@ -32,37 +32,25 @@
 
 ## 🏗️ Architecture
 
-```text
 Camera Input → OpenCV → YOLOv5 (best.pt) → Flask (API) → React (UI)
 
-fluent-fingers/
-├── backend/
-│   └── app.py, model/
-├── frontend/
-│   └── React UI (App.js, components)
-├── dataset/
-│   └── CollectedImages, annotations
-├── LICENSE
-├── README.md
-├── banner.png
-
-🎓 Capstone Team
+## 🎓 Capstone Team
 Raha Jammoum – LinkedIn
 
 Mariam Youssef – mariamayoussef@gmail.com
 
 Reema Mahgana – reema-mahagna@outlook.com
 
-🧑‍🏫 Supervisor: Prof. Femilda Josephin Joseph Shobana Bai
+## 🧑‍🏫 Supervisor: Prof. Femilda Josephin Joseph Shobana Bai
 
-🏫 İstinye University, Department of Computer Engineering (2024)
+## 🏫 İstinye University, Department of Computer Engineering (2024)
 
 
-🔐 License
+## 🔐 License
 This project is not open-source.
-📜 All rights reserved by the authors. Do not copy, reproduce, or use without explicit written permission.
+## 📜 All rights reserved by the authors. Do not copy, reproduce, or use without explicit written permission.
 
-🧠 Future Ideas
+## 🧠 Future Ideas
 Voice-to-text output
 
 Phrase-level translation
