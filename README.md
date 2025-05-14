@@ -33,18 +33,6 @@
 ## 🏗️ Architecture
 Camera Input → OpenCV → YOLOv5 (best.pt) → Flask (API) → React (UI)
 
-## 📁 Folder Structure
-fluent-fingers/
-├── backend/
-│   └── app.py, model/
-├── frontend/
-│   └── React UI (App.js, components)
-├── dataset/
-│   └── CollectedImages, annotations
-├── LICENSE
-├── README.md
-├── banner.png
-
 ## 🎓 Capstone Team
 Raha Jammoum – LinkedIn
 
