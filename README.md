@@ -31,8 +31,19 @@
 ---
 
 ## 🏗️ Architecture
-
 Camera Input → OpenCV → YOLOv5 (best.pt) → Flask (API) → React (UI)
+
+## 📁 Folder Structure
+fluent-fingers/
+├── backend/
+│   └── app.py, model/
+├── frontend/
+│   └── React UI (App.js, components)
+├── dataset/
+│   └── CollectedImages, annotations
+├── LICENSE
+├── README.md
+├── banner.png
 
 ## 🎓 Capstone Team
 Raha Jammoum – LinkedIn
@@ -41,7 +52,8 @@ Mariam Youssef – mariamayoussef@gmail.com
 
 Reema Mahgana – reema-mahagna@outlook.com
 
-## 🧑‍🏫 Supervisor: Prof. Femilda Josephin Joseph Shobana Bai
+## 🧑‍🏫 Supervisor
+Dr. Femilda Josephin Joseph Shobana Bai
 
 ## 🏫 İstinye University, Department of Computer Engineering (2024)
 
